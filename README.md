@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/henoriega/Methods_2024_ICF/blob/main/logo.jpg" width="60%">
+    <img src="https://github.com/henoriega/desilike-tutorial/blob/main/logo.jpg" width="60%">
 </p>
 
 # COSMOBASE: Escuela de Verano en Cosmología  
