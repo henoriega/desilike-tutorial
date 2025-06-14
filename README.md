@@ -25,4 +25,4 @@ Accede a las diapositivas del curso haciendo clic [aquí](https://docs.google.co
 ### 🚀 Ejecutar el tutorial en Google Colab  
 Puedes correr el tutorial directamente desde Google Colab usando el siguiente enlace:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1bbCbqfVgYzvK4tmq5TQ0hL3a5LinKyoY/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RgVG-ZRTTZQAeXzIZGhX6jTVFU3ALfl2?usp=sharing)
