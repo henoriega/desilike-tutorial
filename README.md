@@ -25,4 +25,4 @@ Accede a las diapositivas del curso haciendo clic [aquí](GUSTAVO put your SLIDE
 ### 🚀 Ejecutar el tutorial en Google Colab  
 Puedes correr el tutorial directamente desde Google Colab usando el siguiente enlace:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RgVG-ZRTTZQAeXzIZGhX6jTVFU3ALfl2?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aIzWtYelxlFZxZFgthKz3yk6BCWY1Qlh?usp=sharing)
