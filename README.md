@@ -17,8 +17,8 @@ Este tutorial está basado en el material desarrollado por [Arnaud de Mattia](ht
 
 ---
 
-### 📊 Diapositivas del tutorial  
-Accede a las diapositivas del curso haciendo clic [aquí](https://docs.google.com/presentation/d/1vMtK3w2-D70mmPOoZlxGwqUDXkk9Y9wr2ABlMsBWD-U/edit?usp=sharing)
+### 📊 Diapositivas
+Accede a las diapositivas del curso haciendo clic [aquí](GUSTAVO put your SLIDES)
 
 ---
 
